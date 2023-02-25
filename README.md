@@ -1,2 +1,4 @@
 # bankistHomepage
- bankistHomepage- advanced DOM
+
+bankistHomepage- advanced DOM
+created by following Jonas JS course
